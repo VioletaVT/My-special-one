@@ -1,0 +1,44 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    margin-top: auto;
+    font-size: 40px;
+    border-radius: 15px;
+    border-color: rgb(149, 37, 147);
+    border-style: dashed;
+    border-width: 4.5px;
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    font-family: "Sevillana", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div{
+    background-color: bisque;
+}
+
+button{
+    background-color: bisque;
+    color: rgb(38, 38, 204);
+}
+
+.foot{
+    width: 100%;
+    margin-bottom: auto;
+    font-size: 30px;
+    border-radius: 15px;
+    border-color: rgb(61, 0, 11);
+    border-style: dotted;
+    border-width: 4.5px;
+    color: rgb(107, 2, 28);
+    background-color: rgb(249, 49, 139);
+    font-family: "Sevillana", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
